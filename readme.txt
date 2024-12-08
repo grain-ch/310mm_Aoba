@@ -10,6 +10,9 @@ Applying this mod will change the appearance of the outfitting, but will not cha
 ==============================
 Change log
 
+2024/12/08
+devlopment environment test
+
 2022/05/19
 removed image.jpg
 
